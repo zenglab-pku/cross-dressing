@@ -1,6 +1,6 @@
-# ** Macrophage Cross-Dressing Impairs Immunotherapy Efficacy in Liver Metastasis **
+# Macrophage Cross-Dressing Impairs Immunotherapy Efficacy in Liver Metastasis
 
-Analysis code for stereo-seq and stereo-TCR-seq from 20 samples of 10 liver metastatic colorectal cancer patients.
+Analysis scripts for stereo-seq and stereo-TCR-seq from 20 samples of 10 liver metastatic colorectal cancer patients.
 
 
 
